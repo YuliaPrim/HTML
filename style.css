@@ -1,0 +1,22 @@
+body{
+font-family: Tahoma , serif;
+}
+h1{ 
+    text-align: center;
+    color: black;
+    font-size: 50px;
+}
+div{
+    width: auto;
+    margin:0 auto;
+    overflow: hidden;
+}
+aside, main{
+width: 50%;
+float: left;
+}
+aside img{
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+}
